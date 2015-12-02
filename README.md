@@ -23,4 +23,4 @@ a demo tool for dump wifi device , and record the mac to sqlite db.
 
 2. 执行该demo程序
 
-`wifidump moni0`
+`wifidump moni0 /tmp/sqlfile`
