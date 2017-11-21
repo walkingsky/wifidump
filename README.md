@@ -11,7 +11,7 @@ a demo tool for dump wifi device , and record the mac to sqlite db.
 
 **要求：**
 
-1. 基于openwrt SDK 编译环境编译，本工具作为一个package刻在SDK中独立编译
+1. 基于openwrt SDK 编译环境编译，本工具作为一个package可在SDK中独立编译
 2. 要求wifi驱动支持monitor模式，并兼容iw命令将wifi模式配置为monitor；或者通过驱动自己私有接口命令更改wifi接口到monitor模式
 
 
